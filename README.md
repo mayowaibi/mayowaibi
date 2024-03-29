@@ -2,7 +2,7 @@
 
 - 🎓 Third-year Computer Science student.
 - 🤖 Passionate about learning, with a keen interest in robotics, UI/UX design and software development.
-- 💻 Feel free to check out all my GitHub projects [here](https://github.com/mayowaibi?tab=repositories).
+- 🤝🏾 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/isaac-ibidun/).
 
 ### 🧑🏾‍💻 Languages
 
