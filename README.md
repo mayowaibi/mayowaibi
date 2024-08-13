@@ -1,7 +1,7 @@
 ## Hi, I'm Isaac! 👋🏾
 
-- 🎓 Third-year Computer Science student.
-- 🤖 Passionate about learning, with a keen interest in robotics, UI/UX design and software development.
+- 🎓 Fourth-year Computer Science student.
+- 🤖 Passionate about learning, with a keen interest in UI/UX design and mobile and web development.
 - 🤝🏾 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/isaac-ibidun/).
 
 ### 🧑🏾‍💻 Languages
@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-38B2AC?style=for-the-badge&logoColor=white)
