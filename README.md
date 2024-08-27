@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=mayowaibi&repo=mayowaibi&countColor=%237B1E8A)
+
 ## Hi, I'm Isaac! 👋🏾
 
 - 🎓 Fourth-year Computer Science student.
@@ -10,9 +12,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-38B2AC?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ### 🛠 Tools and Frameworks
