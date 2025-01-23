@@ -1,8 +1,7 @@
-## Hi, I'm Isaac! 👋🏾
+## 🔒 Isaac Ibidun
 
 - 🎓 Fourth-year Computer Science major.
 - 🤖 Passionate about learning, with a keen interest in full-stack web and mobile software development.
-- 🤝🏾 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/isaac-ibidun/).
 
 ### 🧑🏾‍💻 Languages
 
@@ -25,4 +24,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
