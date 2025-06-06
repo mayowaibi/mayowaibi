@@ -1,7 +1,7 @@
 ## 🔒 Isaac Ibidun
 
-- 🎓 Fourth-year Computer Science major.
-- 🤖 Passionate about learning, with a keen interest in full-stack web and mobile software development.
+- 🎓 Computer Science graduate with a passion for impact.
+- 💻 Interests lie in web and mobile software development.
 
 ### 🧑🏾‍💻 Languages
 
