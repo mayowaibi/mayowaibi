@@ -1,7 +1,8 @@
-## 🔒 Isaac Ibidun
+## 🔒 Oluwamayowa Isaac Ibidun
 
-- 🎓 Computer Science graduate with a passion for impact.
-- 💻 Interests lie in web and mobile software development.
+- 🎓 CS grad
+- 💻 Experienced with web + mobile dev
+- 🤖 Currently exploring AI dev
 
 ### 🧑🏾‍💻 Languages
 
